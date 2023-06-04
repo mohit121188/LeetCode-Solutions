@@ -5,3 +5,6 @@ Repository containing my solutions to LeetCode coding problems.
 <br>Given head, the head of a linked list, determine if the linked list has a cycle in it.
 There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. 
 Return true if there is a cycle in the linked list. Otherwise, return false.
+
+<b>Problem 2:</b> https://leetcode.com/problems/reverse-linked-list/
+<br>Given the head of a singly linked list, reverse the list, and return the reversed list.
