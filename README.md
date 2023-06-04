@@ -24,3 +24,6 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 <b>Problem 7:</b>https://leetcode.com/problems/intersection-of-two-linked-lists/
 <br>Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
 
+<b>Problem 8:</b>https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+<br>Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
+
