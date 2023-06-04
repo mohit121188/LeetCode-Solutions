@@ -8,3 +8,6 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 
 <b>Problem 2:</b> https://leetcode.com/problems/reverse-linked-list/
 <br>Given the head of a singly linked list, reverse the list, and return the reversed list.
+
+<b>Problem 3:</b> https://leetcode.com/problems/palindrome-linked-list/
+<br>Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
