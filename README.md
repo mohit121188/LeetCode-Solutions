@@ -15,3 +15,5 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 <b>Problem 4:</b> https://leetcode.com/problems/remove-linked-list-elements/
 <br>Given the head of a linked list and an integer val, remove all the nodes of the linked list that has Node.val == val, and return the new head.
 
+<b>Problem 5:</b> https://leetcode.com/problems/middle-of-the-linked-list/
+<br>Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
