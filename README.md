@@ -27,3 +27,5 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 <b>Problem 8:</b>https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 <br>Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
 
+<b>Problem 8:</b>https://leetcode.com/problems/merge-two-sorted-lists/
+<br>You are given the heads of two sorted linked lists list1 and list2.Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists.Return the head of the merged linked list.
