@@ -36,3 +36,6 @@ Return true if there is a cycle in the linked list. Otherwise, return false.
 
 <b>Problem 11:</b>https://leetcode.com/problems/increasing-order-search-tree/
 <br>Given the root of a binary search tree, rearrange the tree in in-order so that the leftmost node in the tree is now the root of the tree, and every node has no left child and only one right child.
+
+<b>Problem 12:</b>https://leetcode.com/problems/invert-binary-tree/
+<br>Given the root of a binary tree, invert the tree, and return its root.
